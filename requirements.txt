@@ -1,0 +1,5 @@
+transformers
+bitsandbytes-cuda112
+datasets
+accelerate
+pytorch_lightning
