@@ -7,6 +7,7 @@ Scripts for converting GPT-JT to 8 bits and after that finetune it on a specific
 
 Confucius matrix:
 
+```
 [[1177  389 435]
  [ 276 1614  107]
  [ 425  187 1390]]
@@ -14,3 +15,4 @@ Confucius matrix:
 824 FN incidents
 383 FN esg relevant
 612 FN noise
+```
